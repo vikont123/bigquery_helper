@@ -1,0 +1,7 @@
+SELECT
+  table_name,
+  ddl
+FROM
+  `<PROJECT_ID>.<DATASET_NAME>.INFORMATION_SCHEMA.TABLES`
+WHERE
+  table_name="TABLE_NAME"
