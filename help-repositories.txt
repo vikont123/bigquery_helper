@@ -36,3 +36,7 @@ dbt-bigquery    --   https://github.com/dbt-labs/dbt-bigquery
 
 
 doit bq queries for informaion_schema - https://github.com/doitintl/bigquery-optimization-queries/tree/main/information_schema
+
+
+
+Automate BigQuery reservations and assignments using Dataform - https://engineering.doit.com/automate-bigquery-assignments-using-dataform-947ff5f8d095
